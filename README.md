@@ -17,6 +17,7 @@ Learn Jekyll with step-by-step tutorials and videos at [CloudCannon Academy](htt
 * About page
 * Contact page
 
+
 ## Setup
 
 1. Add your site and author details in `_config.yml`.
