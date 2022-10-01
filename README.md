@@ -51,3 +51,4 @@ Aperture is already optimised for adding, updating and removing photos and navig
 ### Photo Gallery
 
 * Populated using front matter array in `index.html`.
+* Okay
