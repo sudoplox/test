@@ -16,7 +16,7 @@ Learn Jekyll with step-by-step tutorials and videos at [CloudCannon Academy](htt
 * Captions
 * About page
 * Contact page
-etc
+a lot
 
 ## Setup
 
@@ -51,4 +51,3 @@ Aperture is already optimised for adding, updating and removing photos and navig
 ### Photo Gallery
 
 * Populated using front matter array in `index.html`.
-
