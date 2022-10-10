@@ -1,4 +1,4 @@
-# Aperture
+# Aperture best
 
 Aperture template for Jekyll. Browse through a [live demo](https://cosmic-hippopotamus.cloudvent.net/).
 
@@ -51,4 +51,4 @@ Aperture is already optimised for adding, updating and removing photos and navig
 ### Photo Gallery
 
 * Populated using front matter array in `index.html`.
-okay
+
