@@ -1,4 +1,4 @@
-# Aperture
+# Aperture new best
 
 Aperture template for Jekyll. Browse through a [live demo](https://cosmic-hippopotamus.cloudvent.net/).
 
