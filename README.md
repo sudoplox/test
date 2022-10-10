@@ -32,17 +32,17 @@ Install the dependencies with [Bundler](http://bundler.io/):
 ~~~bash
 $ bundle install
 ~~~
-
+what
 Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
 ~~~bash
 $ bundle exec jekyll serve
 ~~~
-
+nooo
 ## Editing
 
 Aperture is already optimised for adding, updating and removing photos and navigation in CloudCannon.
-
+hiii
 ### Navigation
 
 * Exposed as a data file to give clients better access.
