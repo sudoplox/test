@@ -22,7 +22,7 @@ Learn Jekyll with step-by-step tutorials and videos at [CloudCannon Academy](htt
 
 1. Add your site and author details in `_config.yml`.
 2. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
-
+very easy
 ## Develop
 
 Aperture was built with [Jekyll](http://jekyllrb.com/) version 3.7.2, but should support newer versions as well.
