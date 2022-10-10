@@ -1,4 +1,4 @@
-# Aperture new best
+# Aperture
 
 Aperture template for Jekyll. Browse through a [live demo](https://cosmic-hippopotamus.cloudvent.net/).
 
@@ -16,7 +16,6 @@ Learn Jekyll with step-by-step tutorials and videos at [CloudCannon Academy](htt
 * Captions
 * About page
 * Contact page
-a lot
 
 ## Setup
 
@@ -32,17 +31,17 @@ Install the dependencies with [Bundler](http://bundler.io/):
 ~~~bash
 $ bundle install
 ~~~
-what
+
 Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
 ~~~bash
 $ bundle exec jekyll serve
 ~~~
-nooo
+
 ## Editing
 
 Aperture is already optimised for adding, updating and removing photos and navigation in CloudCannon.
-hiii
+
 ### Navigation
 
 * Exposed as a data file to give clients better access.
@@ -51,4 +50,3 @@ hiii
 ### Photo Gallery
 
 * Populated using front matter array in `index.html`.
-* woww
