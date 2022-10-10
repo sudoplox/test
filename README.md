@@ -1,4 +1,4 @@
-# Aperture best
+# Aperture
 
 Aperture template for Jekyll. Browse through a [live demo](https://cosmic-hippopotamus.cloudvent.net/).
 
@@ -16,7 +16,7 @@ Learn Jekyll with step-by-step tutorials and videos at [CloudCannon Academy](htt
 * Captions
 * About page
 * Contact page
-
+etc
 
 ## Setup
 
