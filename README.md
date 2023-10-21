@@ -12,7 +12,6 @@ Learn Jekyll with step-by-step tutorials and videos at [CloudCannon Academy](htt
 ## Features
 
 * Photo grid
-* Photo grid
 * Thumbnails
 * Captions
 * About page
