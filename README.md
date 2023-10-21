@@ -15,6 +15,9 @@ Learn Jekyll with step-by-step tutorials and videos at [CloudCannon Academy](htt
 * Thumbnails
 * Captions
 * About page
+* About page
+* About page
+* About page
 * Contact page
 
 ## Setup
